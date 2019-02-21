@@ -4,3 +4,4 @@
 usage.cpp是一个应用案例，即是一个将点云的某个法线转到(0,0,-1)上，包含了可视化的过程
 
 
+rotation_calculation.py 是python版本
